@@ -19,5 +19,5 @@ jobs:
         with:
           go-version: "1.26.0"
 
-      - name: Finish
-        run: go version && (exit 0)
+      - name: Test
+        run: go test -v ./...
