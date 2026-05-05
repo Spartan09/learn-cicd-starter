@@ -1,5 +1,5 @@
 <div align="center">
-  ![ci badge](https://github.com/Spartan09/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![ci badge](https://github.com/Spartan09/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 </div>
 # learn-cicd-starter (Notely)
 
